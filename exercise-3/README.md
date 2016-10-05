@@ -9,3 +9,11 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+**My attempt**
+
+`mkdir`
+
+-Makes a new directory
+-Can make a directory within another directory
+-Must be followed by a name i.e. 'mkdir do-you-like-waffles'
